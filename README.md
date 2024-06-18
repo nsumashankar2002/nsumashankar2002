@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm N S UMASHANKAR</h1>
-<h3 align="center">CSE Student AT DAYANAND SAGAR UNIVERSITY</h3>
+<h3 align="center">CSE STUDENT AT DAYANAND SAGAR UNIVERSITY</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
