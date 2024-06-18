@@ -1,4 +1,5 @@
-![Web-Developer-Header](https://itchronicles.com/wp-content/uploads/2021/04/Optimized-Illustration-from-Adobe-Stock-for-ITC-Post-on-AI-in-Game-Development-1536x864.jpeg)<h1 align="center">Hi 👋, I'm N S UMASHANKAR</h1>
+![Web-Developer-Header](https://apollouniversity.edu.in/blog/wp-content/uploads/2023/01/career-options-after-btech-in-cse-1568x419.jpg)
+<h1 align="center">Hi 👋, I'm N S UMASHANKAR</h1>
 <h3 align="center">CSE STUDENT AT DAYANAND SAGAR UNIVERSITY</h3>
 
 <p align="left">
