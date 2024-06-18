@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm N S UMASHANKAR</h1>
 <h3 align="center">CSE STUDENT AT DAYANAND SAGAR UNIVERSITY</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pavanbhat007&label=Profile%20views&color=0e75b6&style=flat" alt="nsumashankar2002![career-options-after-btech-in-cse-1568x419](https://github.com/nsumashankar2002/nsumashankar2002/assets/109411785/a6def8c7-44c5-4c8f-885b-af1c9ba6b1e2)
-" /> </p>
 
 <p align="left">
 </p>
